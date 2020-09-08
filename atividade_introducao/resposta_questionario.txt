@@ -1,0 +1,35 @@
+Kevin de Faria Tavares Bastos 
+	1460682023015
+
+
+
+1-Sistema computacional = sistema operacional Android 
+
+Dado:Android é um sistema operacional (SO) baseado no núcleo Linux, desenvolvido por um consorcio de desenvolvedores conhecido como Open Handset Alliance, sendo o principal colaborador o Google. Com uma interface de usuário baseada na manipulação direta, o Android é projetado principalmente para dispositivos móveis com tela sensível ao toque como smartphones e tablets; com interface específica para TV, carros (Android Auto) e relógios de pulso (Android Wear)
+
+Informação:O Android é o sistema operacional móvel mais utilizado do mundo, e, em 2013, possuía a maior percentagem das vendas mundiais de SO móveis .Dispositivos com o sistema Android vendem mais que eletrônicos com Windows, iOS e Mac OS X combinados,com vendas em 2012, 2013 e 2014 perto da base de computadores do mundo. Em julho de 2013, a loja de aplicativos Google Play
+
+Conhecimento:O código do sistema operacional é disponibilizado pelo Google sob licença de código aberto, apesar de a maior parte dos dispositivos ser lançada com uma combinação de software livre e software privado. Inicialmente foi desenvolvido pela empresa Android, Inc., a qual o Google dava suporte financeiramente. Foi comprada pela mesma em 2005 e revelado em 2007 junto com a fundação da Open Handset Alliance — consórcio entre empresas de hardware, software e telecomunicações com o intuito de desenvolver a indústria de dispositivos móveis.
+
+  NOME   DECIMAL  BINÁRIO
+
+2-Tabela ASCII
+   K      75      0100 1011
+   e      101     0110 0101
+   v      118     0111 0110
+   i      105     0110 1001
+   n	  110     0110 1110	
+
+   B      66      0100 0010	
+   a      97      0110 0001
+   s      115     0111 0011
+   t      116     0111 0100
+   o      111     0110 1111
+   s      115     0111 0011
+
+3-Bitbuckt
+como funciona : Bitbucket é uma ferramenta de hospedagem e colaboração de código baseada em Git, criada para equipes profissionais de engenharia de software e gestão de projetos. A marca BitBucket foi adquirida pela Atlassian em 2010, o que garante às suas ferramentas integração total com os demais serviços da empresa e ainda workflows do Jira e do Trello.
+
+O ambiente é favorável para o compartilhamento de dados, criação e implantação de códigos e automatização de testes no melhor conceito de cloud — o Bitbucket Cloud, por exemplo, está hospedado nos servidores da Atlassian e pode ser acessado por meio de um URL mas também permite hospedagem local, em infraestruturas on-premises — o Bitbucket Server, que suporta soluções como o Bamboo e automatiza todos os processos com licença infinita.
+
+
